@@ -1,0 +1,13 @@
+.video{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.video iframe{
+    padding: 0 1.5rem;
+}
+
+
+

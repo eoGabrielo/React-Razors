@@ -1,0 +1,53 @@
+.section{
+    padding: 1.5rem 1rem;
+    max-width: 400px;
+    margin: 0 auto;
+    border-top: 2px solid black;
+}
+
+.formulario{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+    height: 300px;
+}
+
+.dados{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.dados input{
+    width: 40%;
+    height: 1.8rem;
+    margin: 0 .4rem;
+}
+
+textarea{
+    height: 1.8rem;
+    margin: .4rem 0px;
+    height: 150px;
+    max-width: 95%;
+    min-width: 95%;
+}
+
+button{
+    width: 97%;
+    border: none;
+    height: 2.5rem;
+    font-weight: 800;
+    background-color: rgba(128, 128, 128, 0.322);
+    cursor: pointer;
+}
+
+h2{
+    margin: 0;
+    padding: 0;
+}
