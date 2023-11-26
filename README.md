@@ -26,6 +26,6 @@ O código está organizado em partes, facilitando o entendimento. Aqui estão al
 
 Se quiser, pode comparar esta cópia com o site original da Razors [aqui](https://www.razorskate.com) para ver as semelhanças.
 
-# Aviso Importante
+# Importante
 
 Este projeto é uma tentativa de replicar o site da Razors utilizando React. Por favor, esteja ciente de que o site original pode ter passado por alterações desde a criação desta cópia. Se perceber diferenças significativas, sinta-se à vontade para colaborar.
