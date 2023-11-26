@@ -1,4 +1,4 @@
-**# Replica do Site Razors
+# Replica do Site Razors
 
 Este projeto, desenvolvido com esmero, tem como objetivo replicar o site da Razors, renomada marca especializada na venda de patins, utilizando a poderosa ferramenta React. A ênfase foi dada à recriação detalhada do formulário, buscando reproduzir ao máximo a experiência presente no site original. Além disso, foi elaborada uma galeria de fotos visualmente atraente por meio do CSS.
 
